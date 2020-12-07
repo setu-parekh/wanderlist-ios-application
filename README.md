@@ -30,7 +30,7 @@ An iOS application to create and manage travel wishlist
 ![Detail Map Screen](https://github.com/setu-parekh/wanderlist-ios-application/blob/main/Images/detail-map-screen.png)
 
 ### Create or Update a Note Related to a Location
-![Create or Update Note](https://github.com/setu-parekh/wanderlist-ios-application/blob/main/Images/detail-note-create.png)
+![Create or Update Note](https://github.com/setu-parekh/wanderlist-ios-application/blob/main/Images/detail-note-create-screen.png)
 
 ### View or Delete a Note Related to a Location
 ![View or Delete Note](https://github.com/setu-parekh/wanderlist-ios-application/blob/main/Images/detail-note-view-delete-screen.png)
